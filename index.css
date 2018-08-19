@@ -1,0 +1,129 @@
+.Main{
+	background-color: white;
+	/*border: 2px solid #000;*/
+	border-color: red;
+	/*margin: 2px;*/
+	display: flex;
+	flex-wrap: wrap;
+}
+.left{
+	flex:1;
+	background-color: #95A5A6;
+	border: 2px solid #000;
+	margin: 2px;
+}
+.right{
+	flex:3;
+	font-size: 20px;
+	background-color: #EC7063;
+	border: 2px solid #000;
+	margin: 2px;}
+#x{
+	font-style: italic;
+	font-size: 25px;
+}
+.first{
+	/*border-color: red;*/
+	/*border: 2px solid #000;*/
+	display: flex;
+	flex-wrap: wrap;
+}
+img{
+	width:200px;
+	outline-style: dashed;
+}
+table,td,tr{
+	font-style: italic;
+	border-color: black;
+	background-color: white; 
+	border: 2px solid #000;
+	border-collapse: collapse;
+}
+#co{
+	font-style: italic;
+	border: 2px solid #000;
+	background-color: white;
+}
+.abc
+{
+	border: 2px solid #000;
+	background-color: white;
+}
+#A
+{
+	border: 2px solid #000;
+	background-color: white;	
+}
+.xyz
+{
+	border: 2px solid #000;
+	background-color: white;	
+}
+@media only screen and (max-width:480px)
+{
+	.Main{
+	/*background-color: white;*/
+	/*border: 2px solid #000;*/
+	/*border-color: red;*/
+	/*margin: 2px;*/
+	display: flex;
+	/*flex-wrap: wrap;*/
+	flex-direction: column;
+	}
+	.left{
+	border: 2px solid #000;
+	margin: 2px;
+	background-color: yellow;
+	}
+	
+	.right{
+	/*font-size: 20px;*/
+	background-color: #EC7063;
+	border: 2px solid #000;
+	margin: 2px;
+	}
+	.first{
+	border-color: red;
+	border: 2px solid #000;
+	display: flex;
+	/*flex-wrap: wrap;*/
+	flex-direction: column;
+	}	
+	img{
+	width:200px;
+	outline-style: dashed;
+}
+@media only screen and (min-width:481px) and (max-width: 768px)
+{
+	.Main{
+	/*background-color: white;*/
+	/*border: 2px solid #000;*/
+	/*border-color: red;*/
+	/*margin: 2px;*/
+	display: flex;
+	/*flex-wrap: wrap;*/
+	flex-direction: column;
+	}
+	.left{
+	border: 2px solid #000;
+	margin: 2px;
+	background-color: blue;
+	}
+	
+	.right{
+	/*font-size: 20px;*/
+	background-color: #EC7063;
+	border: 2px solid #000;
+	margin: 2px;
+	}
+	.first{
+	border-color: red;
+	border: 2px solid #000;
+	display: flex;
+	/*flex-wrap: wrap;*/
+	flex-direction: column;
+	}	
+	img{
+	width:200px;
+	outline-style: dashed;
+}

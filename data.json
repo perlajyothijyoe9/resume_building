@@ -1,0 +1,57 @@
+{
+	"basicdetails":{
+		"image":"Lighthouse.jpg",
+		"name":	"perla jyothirlatha",
+		"Email":"perlajyothirlatha@gmail.com",
+		"Phone": "9999000099",
+		"Address":"Door.no: 1-1/1, vijayawada, krishna(dist), andhra pradesh-521102"
+	},
+	"education":
+	[
+		{
+			"course":"B.tech(C.S.E)",
+			"college":"Vignan's Nirula",
+			"CGPA":"8.12"
+		},
+		{
+			"course":"Intermediate(M.P.C)",
+			"college":"Sri chaitanya girls junior college",
+			"CGPA": "92.2%"
+		},
+		{
+			"course":"10th class",
+			"college":"Sri chaitanya techno school",
+			"CGPA":"9.8"
+		}
+	],
+	"skills":
+	[
+		{
+			"name":"operating systems",
+			"value":"Windows,linux,MacOS"
+		},
+		{
+			"name":"Programming Languages",
+			"value":"C,C++,Java,Python"
+		}
+	],
+	"career":
+	{
+		"obj":"I would like to become a good Programmer and to be placed in Google with high package. "
+	},
+	"Achievements":
+	[
+		"I got first prize in ThrowBall competition held in CIET",
+		"I got second prize in Carroms competition in my college",
+		"I stood third in essay writing competition on WOMEN EMPOWERMENT Programm held by Government"
+	],
+	"Description":
+	{
+		"des":"I thereby declare that all  the above mentioned detail are true upto my concern."
+	},
+	"hobbies":
+	[
+		"singing","Dancing","reading novels"
+		]
+	
+}
